@@ -15,7 +15,9 @@ class Auth extends Component {
 				elementType: 'input',
 				elementConfig: {
 					type: 'email',
-					placeholder: 'Mail Address'
+					id: 'username',
+					placeholder: 'Mail Address',
+					required: true
 				},
 				value: '',
 				validation: {

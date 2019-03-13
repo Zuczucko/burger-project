@@ -1,0 +1,494 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"C",
+				"CookieConsent"
+			],
+			[
+				"pro",
+				"prop-types"
+			],
+			[
+				"de",
+				"deletePersonHandler"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"per",
+				"persons"
+			],
+			[
+				"serv",
+				"serviceWorker"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"ch",
+				"changedNameHandler"
+			],
+			[
+				"menu",
+				"menuLinks"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"po",
+				"pointer\tcursor"
+			],
+			[
+				"pi",
+				"pointer\tcursor"
+			],
+			[
+				"padding",
+				"padding\tproperty"
+			],
+			[
+				"inl",
+				"inline\tdisplay"
+			],
+			[
+				"inline",
+				"inline\tdisplay"
+			],
+			[
+				"paddin",
+				"padding\tproperty"
+			],
+			[
+				"paddi",
+				"padding-left\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"cl",
+				"clear\tproperty"
+			],
+			[
+				"tex",
+				"text-top\tvertical-align"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"alig",
+				"align-content\tproperty"
+			],
+			[
+				"la",
+				"larger\tfont-size"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"margin-",
+				"margin-bottom\tproperty"
+			],
+			[
+				"ime",
+				"images"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"cur",
+				"cursor\tproperty"
+			],
+			[
+				"cu",
+				"cursor\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"bl",
+				"block\tdisplay"
+			],
+			[
+				"translate",
+				"translateY()\ttransform"
+			],
+			[
+				"i",
+				"inline-block\tdisplay"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"list-s",
+				"list-style\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"st",
+				"stylesheet"
+			],
+			[
+				"a",
+				"alt\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/containers/Checkout/ContactData/ContactData.js",
+			"settings":
+			{
+				"buffer_size": 6265,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/containers/Auth/Auth.js",
+			"settings":
+			{
+				"buffer_size": 3699,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Remove Package"
+			],
+			[
+				"emet",
+				"Plugin Development: Profile Events"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Marko/git/burger-project",
+		"/C/Users/Marko/git/burger-project/build",
+		"/C/Users/Marko/git/burger-project/build/static",
+		"/C/Users/Marko/git/burger-project/build/static/js",
+		"/C/Users/Marko/git/burger-project/src",
+		"/C/Users/Marko/git/burger-project/src/containers",
+		"/C/Users/Marko/git/burger-project/src/containers/Auth",
+		"/C/Users/Marko/git/burger-project/src/containers/Checkout",
+		"/C/Users/Marko/git/burger-project/src/containers/Checkout/ContactData",
+		"/C/Users/Marko/git/burger-project/src/shared",
+		"/C/Users/Marko/git/burger-project/src/store",
+		"/C/Users/Marko/git/burger-project/src/store/actions",
+		"/C/Users/Marko/git/burger-project/src/store/reducers"
+	],
+	"file_history":
+	[
+		"/C/Users/Marko/git/burger-project/firebase.json",
+		"/C/Users/Marko/git/burger-project/src/containers/Auth/Auth.js",
+		"/C/Users/Marko/react-complete-guide/src/containers/App.js",
+		"/C/Users/Marko/react-complete-guide/src/Components/Persons/Persons.js",
+		"/C/Users/Marko/react-complete-guide/src/Components/Persons/Person/Person.js",
+		"/C/Users/Marko/react-complete-guide/src/Components/cockpit/Cockpit.js",
+		"/C/Users/Marko/react-complete-guide/src/Components/cockpit/Cockpit.css",
+		"/C/Users/Marko/react-complete-guide/src/hoc/Auux.js",
+		"/C/Users/Marko/react-complete-guide/src/index.js",
+		"/C/Users/Marko/react-complete-guide/src/index.css",
+		"/C/Users/Marko/react-complete-guide/src/containers/App.css",
+		"/C/Users/Marko/react-complete-guide/src/App.css",
+		"/C/Users/Marko/react-complete-guide/src/containers/App.test.js",
+		"/C/Users/Marko/react-complete-guide/src/App.js",
+		"/C/Users/Marko/react-complete-guide/src/Persons/Person/Person.css",
+		"/C/Users/Marko/react-complete-guide/src/Persons/Person/Person.js",
+		"/C/Users/Marko/react-complete-guide/config/webpack.config.js",
+		"/C/Users/Marko/react-complete-guide/node_modules/core-js/client/core.js",
+		"/C/Users/Marko/react-complete-guide/node_modules/jsdom/lib/jsdom/living/generated/HTMLScriptElement.js",
+		"/C/Users/Marko/react-complete-guide/src/Person/Person.css",
+		"/C/Users/Marko/react-complete-guide/public/index.html",
+		"/C/Users/Marko/react-complete-guide/package.json",
+		"/C/wamp64/www/assignment/index.html",
+		"/C/wamp64/www/assignment/sass/_variables.scss",
+		"/C/wamp64/www/assignment/js/script.js",
+		"/C/wamp64/www/assignment/sass/styles.scss",
+		"/C/wamp64/www/assignment/css/styles.css",
+		"/C/wamp64/www/test/css/main.scss",
+		"/C/wamp64/www/test/css/main.css",
+		"/C/wamp64/www/guide/terminal.txt",
+		"/C/wamp64/bin/apache/apache2.4.35/conf/httpd.conf",
+		"/C/wamp64/bin/apache/apache2.4.35/bin/php.ini"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/containers/Checkout/ContactData/ContactData.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6265,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2396,
+								2396
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 771.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/containers/Auth/Auth.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3699,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								598,
+								598
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 71.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 281.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
