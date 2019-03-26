@@ -4,6 +4,30 @@
 		"selected_items":
 		[
 			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"in",
+				"inline-flex\tdisplay"
+			],
+			[
+				"borer",
+				"border-radius\tproperty"
+			],
+			[
+				"com",
+				"components"
+			],
+			[
+				"su",
+				"successHandler"
+			],
+			[
+				"se",
+				"setState"
+			],
+			[
 				"C",
 				"CookieConsent"
 			],
@@ -38,10 +62,6 @@
 			[
 				"serv",
 				"serviceWorker"
-			],
-			[
-				"margin",
-				"margin\tproperty"
 			],
 			[
 				"ch",
@@ -106,10 +126,6 @@
 			[
 				"mar",
 				"margin-left\tproperty"
-			],
-			[
-				"in",
-				"inline-block\tdisplay"
 			],
 			[
 				"inli",
@@ -245,21 +261,27 @@
 	"expanded_folders":
 	[
 		"/C/Users/Marko/git/burger-project",
-		"/C/Users/Marko/git/burger-project/build",
-		"/C/Users/Marko/git/burger-project/build/static",
-		"/C/Users/Marko/git/burger-project/build/static/js",
 		"/C/Users/Marko/git/burger-project/src",
+		"/C/Users/Marko/git/burger-project/src/components",
+		"/C/Users/Marko/git/burger-project/src/components/Burger",
+		"/C/Users/Marko/git/burger-project/src/components/Burger/BuildControls",
+		"/C/Users/Marko/git/burger-project/src/components/Burger/BuildControls/BuildControl",
+		"/C/Users/Marko/git/burger-project/src/components/Burger/BurgerIngredients",
+		"/C/Users/Marko/git/burger-project/src/components/Order",
+		"/C/Users/Marko/git/burger-project/src/components/Order/CheckoutSummary",
 		"/C/Users/Marko/git/burger-project/src/containers",
-		"/C/Users/Marko/git/burger-project/src/containers/Auth",
+		"/C/Users/Marko/git/burger-project/src/containers/BurgerBuilder",
 		"/C/Users/Marko/git/burger-project/src/containers/Checkout",
 		"/C/Users/Marko/git/burger-project/src/containers/Checkout/ContactData",
-		"/C/Users/Marko/git/burger-project/src/shared",
+		"/C/Users/Marko/git/burger-project/src/containers/Orders",
 		"/C/Users/Marko/git/burger-project/src/store",
 		"/C/Users/Marko/git/burger-project/src/store/actions",
 		"/C/Users/Marko/git/burger-project/src/store/reducers"
 	],
 	"file_history":
 	[
+		"/C/Users/Marko/burger/src/containers/Checkout/ContactData/ContactData.js",
+		"/C/Users/Marko/burger/src/containers/Checkout/Checkout.js",
 		"/C/Users/Marko/git/burger-project/src/containers/Checkout/ContactData/ContactData.js",
 		"/C/Users/Marko/git/burger-project/src/containers/Auth/Auth.js",
 		"/C/Users/Marko/git/burger-project/firebase.json",
@@ -296,7 +318,7 @@
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 29.0
 	},
 	"find_in_files":
 	{
@@ -334,11 +356,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 28.0
+		"height": 29.0
 	},
 	"input":
 	{
-		"height": 41.0
+		"height": 42.0
 	},
 	"layout":
 	{
@@ -368,10 +390,10 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "package.sublime-project",
+	"project": "firebase.sublime-project",
 	"replace":
 	{
-		"height": 52.0
+		"height": 54.0
 	},
 	"save_all_on_build": true,
 	"select_file":
